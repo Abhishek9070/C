@@ -1,4 +1,4 @@
-/*Making a function which calculate 'a' raised the power 'b' using recursion*/
+/*Making a function which calculate 'a' raised the power 'b' using recrusion*/
 #include<stdio.h>
 int power(int a, int b){
     if( b==0 ) return 1;
